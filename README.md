@@ -1,11 +1,12 @@
 # dnora_tutorials ✨
 
-Tutorials and example workflows for using **dnora**.  
-Each example/script is designed to be self-contained and easy to adapt. 🔧
+Tutorials and example workflows for using ***[dnora](https://github.com/MET-OM/dnora)***.
 
 ---
 
 ## What’s inside 📦
+
+ Examples/scripts that are designed to be self-contained and easy to adapt. 🔧
 
 ### Dynamical / Non-stationary SWAN 🌊
 - **Wind & Boundary Spectra (NORA3)**  
