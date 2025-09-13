@@ -22,7 +22,7 @@ Tutorials and example workflows for using ***[dnora](https://github.com/MET-OM/d
 - **With structures (e.g., breakwaters)** 🧱  
   [ex5_swan_stat_with_structures.py](https://github.com/MET-OM/dnora_tutorials/blob/main/tutorials/ex5_swan_stat_with_structures.py)
 
-### Plotting outputs using [dnplot](https://pypi.org/project/dnplot/) 👀 
+### Quick Output Plots using [dnplot](https://pypi.org/project/dnplot/) 👀 
   [plot_swan_data_netcdf.py](https://github.com/MET-OM/dnora_tutorials/blob/main/tutorials/plot_swan_data_netcdf.py)
 
 <img width="1300" height="600" alt="Screenshot from 2025-09-13 15-40-31" src="https://github.com/user-attachments/assets/8e4a3b50-b520-4905-995d-5a26aaa928e9" />
