@@ -1,4 +1,4 @@
-# dnora_tutorials ✨
+# dnora_tutorials 📜
 
 Tutorials and example workflows for using ***[dnora](https://github.com/MET-OM/dnora)***.
 
