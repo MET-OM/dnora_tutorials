@@ -35,8 +35,8 @@ def plot_spectra() -> None:
 
 def main():
     plot_grid()
-    # plot_timeseries(lon=5.25, lat=62.3)  # Plot one point
-    # plot_spectra()
+    plot_timeseries(lon=5.25, lat=62.3)  # Plot one point
+    plot_spectra()
 
 
 if __name__ == "__main__":
