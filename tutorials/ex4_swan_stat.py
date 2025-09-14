@@ -36,7 +36,7 @@ def main() -> None:
     # Write input file for model and execute SWAN
     exe = dn.executer.SWAN(model)
     exe.write_input_file(homog=STATIONARY_FORCING)
-    exe.run_model()
+    #exe.run_model()
 
 
 if __name__ == "__main__":
