@@ -25,7 +25,7 @@ def main() -> None:
     # Define a ModelRun for the desired area
     model = dn.modelrun.NORA3(grid, start_time=START_TIME, end_time=END_TIME)
     model.import_wind()
-    model.import_spectra()
+    model.import_spectra(max_dist=7)
     model.plot.grid()
 
     # Write grid file for SWAN
