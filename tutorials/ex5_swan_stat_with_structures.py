@@ -49,7 +49,7 @@ def main() -> None:
         homog=STATIONARY_FORCING,
         structures=STRUCTURES,
     )
-    exe.run_model()
+    #exe.run_model()
 
 
 if __name__ == "__main__":
