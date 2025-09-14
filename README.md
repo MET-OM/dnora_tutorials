@@ -10,7 +10,7 @@ Tutorials and example workflows for using ***[dnora](https://github.com/MET-OM/d
 
 ### Dynamical / Non-stationary SWAN 🌊 using:
 - **Wind & Boundary Spectra (NORA3)**  
-  [ex1_swan_nonstat.py](https://github.com/MET-OM/dnora_tutorials/blob/main/tutorials/ex1_swan_nonstat.py)
+  [ex1_swan_nonstat.py](https://github.com/MET-OM/dnora_tutorials/blob/main/tutorials/ex1_swan_nostat.py)
 - **Wind & Boundary Spectra (NORA3) + Surface Currents (NORKYST800)**  
   [ex2_swan_nonstat_currents.py](https://github.com/MET-OM/dnora_tutorials/blob/main/tutorials/ex2_swan_nonstat_currents.py)
 - **Wind & Boundary Spectra + Ice (NORA3)** 🧊  
